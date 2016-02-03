@@ -3,7 +3,8 @@
 This is a case example displase the procedure of data analysis.<br />
 Website: www.lagou.com
 # Get data 
-1.The setting of search will be: (1)Experience:1-3 year experience. (2)Key Word:数据分析师. (3)Location: China<br />
+1.The setting of search will be:<br />
+(1)Experience:1-3 year experience. (2)Key Word:数据分析师. (3)Location: China<br />
 2.[Crawl all related links in a stack.](https://github.com/Alexzhibin/Job-Market-Analysis/blob/master/Link_Result.ipynb)<br />
 ---   [Result.](https://github.com/Alexzhibin/Job-Market-Analysis/blob/master/urls_list.txt)<br />
 
